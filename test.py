@@ -1,1 +1,2 @@
 print("よろしく")
+print("hello")
